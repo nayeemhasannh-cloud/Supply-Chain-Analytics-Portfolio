@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Region,Product_Category,Orders_Count,On_Time_Delivery_%,Defect_Rate_%,Avg_Lead_Time_Days,Cost_per_Unit,Fill_Rate_%,Response_Time_Hours,Contract_Compliance_%,Monthly_Spend_USD,Supplier_Risk_Level,Sustainability_Score,Overall_Score,Risk_Score
+SUP001,Johnson-Ritter,North America,Raw Materials,299,85.54,4.4,19,199.89,76.78,27.48,89.5,15443.14,Low,64.34,75.28,3
+SUP002,"Miller, Adams and Shaffer",Middle East,Machinery,281,70.06,1.58,25,414.77,75.95,53.87,75.07,93474.82,Medium,91.84,78.28,2
+SUP003,"Jacobs, Baker and Boone",Middle East,Electronics,402,70.98,6.39,23,474.15,93.63,54.16,73.18,414248.22,High,69.75,68.15,1
+SUP004,Johnson-Sampson,Asia,Raw Materials,403,77.68,2.12,21,318.49,75.23,9.55,95.57,236601.59,High,54.63,76.89,1
+SUP005,Reyes LLC,Africa,Packaging,951,95.2,6.49,2,234.65,97.74,3.22,86.02,144930.99,Low,82.27,80.52,3
+SUP006,Mcmahon and Sons,Middle East,Textiles,302,93.88,4.39,20,442.78,94.85,53.38,73.21,420702.25,High,63.58,77.44,1
+SUP007,"Cook, Soto and Black",North America,Packaging,587,83.19,3.51,27,202.84,93.65,71.14,98.53,139334.4,Medium,98.22,84.64,2
+SUP008,"Blackburn, Alvarez and Roberson",South America,Machinery,853,83.84,2.59,29,81.91,81.28,48.68,97.59,212666.25,High,88.84,83.04,1
+SUP009,"Davis, Sullivan and Mcbride",Middle East,Textiles,696,80.01,2.04,10,489.65,79.23,3.99,94.54,121332.33,High,92.58,84.88,1
+SUP010,"Warren, Thornton and Mills",Africa,Textiles,486,89.57,5.22,21,457.91,95.44,21.79,73.17,356922.99,Low,84.1,77.76,3
+SUP011,Shelton-Parsons,Asia,Packaging,581,96.9,2.88,19,385.37,81.62,53.07,75.97,414684.51,Medium,56.67,78.7,2
+SUP012,"Edwards, Powell and Shaw",Europe,Raw Materials,219,84.47,0.51,3,461.01,89.01,17.42,88.61,420061.93,High,68.59,86.73,1
+SUP013,Green-Brennan,Middle East,Packaging,418,86.71,1.36,16,448.68,95.97,53.24,78.78,474427.33,Low,75.92,84.96,3
+SUP014,"Fowler, Cox and Santos",North America,Electronics,864,73.46,3.81,3,168.63,97.84,34.21,70.79,383543.82,High,61.51,74.97,1
+SUP015,"Tapia, Hartman and Williams",North America,Raw Materials,469,90.07,4.56,11,490.98,88.4,29.45,89.46,329742.44,High,98.99,83.83,1
+SUP016,Walker Group,Europe,Raw Materials,460,73.86,7.47,24,272.57,77.03,61.17,73.24,458627.39,High,90.25,67.2,1
+SUP017,"Humphrey, Clark and Oconnell",North America,Chemicals,479,78.95,7.93,14,159.98,93.93,21.45,99.4,366263.69,High,41.94,67.77,1
+SUP018,Morales-Russell,Asia,Machinery,777,82.25,3.84,3,431.59,87.36,38.05,71.15,308828.71,Low,92.11,80.18,3
+SUP019,Gibson-Armstrong,Europe,Raw Materials,82,71.0,7.54,7,66.04,86.36,11.47,85.7,429046.43,Low,82.76,70.19,3
+SUP020,"Smith, Ali and Steele",Asia,Raw Materials,399,91.77,7.09,15,464.62,88.22,37.01,93.31,480835.79,Medium,56.7,73.0,2
+SUP021,"Cole, Lawrence and Miller",Middle East,Machinery,183,90.57,4.19,3,52.73,75.96,28.53,99.04,125672.31,Medium,62.44,79.58,2
+SUP022,King-Hall,Europe,Electronics,590,75.96,0.93,4,51.87,91.6,6.49,96.14,499732.22,Low,75.67,86.24,3
+SUP023,Rice-Cole,Asia,Chemicals,326,75.44,7.52,22,181.12,75.79,40.57,70.02,293063.73,High,43.38,60.0,1
+SUP024,Perkins Ltd,Asia,Chemicals,167,75.17,2.57,28,457.69,83.59,44.63,90.1,338623.19,Medium,41.33,73.11,2
+SUP025,Murphy Ltd,North America,Machinery,381,87.46,7.87,10,429.28,97.86,30.56,88.51,23317.08,Low,57.86,71.76,3
+SUP026,Roman-Jimenez,Africa,Textiles,420,72.84,2.34,19,365.34,96.05,9.28,74.51,403227.71,Medium,46.08,74.13,2
+SUP027,Day-Davis,South America,Electronics,409,88.18,3.78,5,410.61,93.04,71.93,79.51,192990.64,High,92.61,83.76,1
+SUP028,"Sweeney, Carson and Case",South America,Raw Materials,831,96.25,3.74,7,339.01,82.27,38.91,92.39,402452.2,Medium,98.56,86.87,2
+SUP029,Ortega Inc,Africa,Chemicals,304,77.62,4.02,2,362.81,90.03,11.62,77.39,224636.98,High,71.61,77.02,1
+SUP030,"Schmidt, Peters and Russell",Europe,Machinery,465,89.85,6.63,27,220.74,93.67,29.26,86.62,479967.72,Low,72.11,74.36,3
+SUP031,Gray Inc,South America,Raw Materials,118,84.37,2.38,3,390.62,99.18,32.12,92.9,197327.9,High,55.11,83.11,1
+SUP032,Flores-Nichols,Africa,Raw Materials,492,79.02,1.98,5,104.85,75.61,29.1,79.16,234888.15,Low,63.09,77.97,3
+SUP033,Jordan Ltd,Asia,Packaging,339,81.47,4.86,23,179.39,80.65,65.01,89.61,345223.45,High,53.73,71.95,1
+SUP034,Kelly LLC,North America,Machinery,768,89.67,2.93,11,442.54,83.12,48.94,89.03,300506.23,Low,74.34,82.43,3
+SUP035,"Webb, Wright and Parks",South America,Chemicals,780,75.62,3.82,18,485.1,75.94,70.94,88.74,186451.39,Low,90.63,77.76,3
+SUP036,"Bennett, Zuniga and Fischer",South America,Chemicals,917,77.47,1.97,13,420.85,85.83,51.63,72.55,261321.17,High,52.64,75.78,1
+SUP037,"Phillips, Molina and Carter",Africa,Packaging,871,71.63,3.82,19,491.02,85.42,38.6,81.72,89984.44,High,99.69,78.39,1
+SUP038,Ortiz Group,Middle East,Raw Materials,752,76.05,1.63,9,467.92,93.73,60.87,93.33,404397.67,Low,82.04,85.22,3
+SUP039,"Bates, Gillespie and Young",Europe,Raw Materials,893,97.91,4.16,25,19.92,89.06,33.67,84.34,268173.91,High,81.51,81.89,1
+SUP040,Torres-Morris,Europe,Electronics,115,82.46,1.36,29,341.23,89.45,55.22,76.16,295488.67,Low,65.77,79.7,3
+SUP041,"Miller, Zamora and Robinson",Africa,Raw Materials,843,94.31,7.3,19,201.97,76.96,66.11,92.18,180106.97,Medium,42.49,68.82,2
+SUP042,Thomas-Morton,Middle East,Textiles,832,98.06,7.46,8,465.36,94.16,53.09,81.13,28246.65,Medium,59.81,74.06,2
+SUP043,"Morales, Payne and Carpenter",North America,Electronics,718,80.22,4.72,21,328.46,77.69,34.19,91.76,374220.13,Medium,44.79,70.65,2
+SUP044,"Hughes, Gaines and Chambers",South America,Chemicals,886,71.25,5.07,12,65.95,89.51,61.04,86.56,134931.71,Medium,61.72,72.14,2
+SUP045,Brown Group,Asia,Machinery,600,70.2,1.4,9,356.83,97.42,9.06,81.6,128102.35,Low,73.61,81.74,3
+SUP046,Pittman Inc,North America,Machinery,356,71.76,7.11,27,171.44,98.28,16.64,74.7,255494.85,High,61.99,66.27,1
+SUP047,Patrick-Valenzuela,Europe,Textiles,939,98.21,6.82,14,372.97,84.47,24.96,73.44,99329.33,Medium,90.29,76.74,2
+SUP048,Simon-Hunter,Asia,Electronics,259,88.19,3.2,14,307.33,75.99,30.12,85.43,121429.52,Low,98.38,83.22,3
+SUP049,Torres Inc,Europe,Packaging,121,73.84,7.18,25,412.22,76.35,71.34,81.14,33070.56,Medium,52.59,63.11,2
+SUP050,"Jenkins, Dean and Larson",Europe,Machinery,69,73.21,6.42,23,236.15,82.96,68.59,78.11,46786.61,Medium,68.45,67.59,2
+SUP051,Murray-Huang,Middle East,Machinery,837,85.63,1.05,25,327.73,93.29,13.37,74.21,33093.79,Low,92.97,85.88,3
+SUP052,Jones-Johnston,Africa,Packaging,692,96.29,7.97,4,197.1,88.18,65.09,99.1,490331.81,High,41.96,72.12,1
+SUP053,"Stewart, Martinez and Green",Asia,Raw Materials,937,97.39,7.1,25,425.17,80.69,52.0,74.93,118774.73,High,76.28,72.43,1
+SUP054,Boyd LLC,South America,Packaging,370,82.14,7.35,6,468.79,88.11,23.14,79.64,121947.33,Low,91.5,74.12,3
+SUP055,"Rivera, Mclean and Williams",Africa,Chemicals,954,98.14,2.38,21,266.2,93.54,63.62,79.49,52659.66,High,58.52,82.41,1
+SUP056,"Wilson, Savage and Leonard",Europe,Raw Materials,411,76.27,7.47,14,113.0,80.9,6.48,93.28,412958.81,Low,95.94,73.25,3
+SUP057,Johnson-Campbell,North America,Chemicals,791,87.66,5.81,8,453.9,80.5,51.33,78.1,204852.11,Low,42.89,69.72,3
+SUP058,Douglas-Mccarty,North America,Raw Materials,772,79.74,2.84,5,182.78,95.58,12.62,90.76,95473.62,Medium,59.84,80.68,2
+SUP059,Parks-Rivers,Africa,Electronics,498,71.79,2.86,24,168.62,83.81,36.65,99.34,324130.78,Low,78.22,79.03,3
+SUP060,Lopez Inc,Asia,Raw Materials,787,94.0,2.39,10,22.72,99.99,6.25,94.35,179243.72,Low,79.42,88.78,3
+SUP061,"Gray, Ali and Taylor",South America,Textiles,370,94.09,5.8,9,370.89,90.73,55.54,92.54,343875.57,Medium,59.26,77.4,2
+SUP062,Martin-Castaneda,Asia,Packaging,199,92.59,7.83,24,113.58,87.3,3.09,72.08,407981.08,Low,81.91,71.28,3
+SUP063,Munoz-Rogers,Middle East,Textiles,391,87.93,2.68,28,268.24,85.89,7.1,79.42,254531.1,High,59.39,77.53,1
+SUP064,"Hall, Johnson and Miller",South America,Machinery,138,75.25,1.09,23,331.52,83.08,15.9,94.24,354421.69,Low,65.19,80.71,3
+SUP065,"Silva, Williams and Alvarez",South America,Raw Materials,257,71.23,7.66,21,226.76,88.83,30.45,79.09,56442.71,Low,64.41,65.24,3
+SUP066,Williamson-Johnson,Middle East,Chemicals,568,72.73,2.89,9,253.43,85.0,59.65,84.71,421152.46,Medium,94.11,81.08,2
+SUP067,"Lang, Hanson and Espinoza",Europe,Textiles,530,86.36,6.14,19,473.84,79.85,15.94,89.84,348971.35,Medium,55.58,71.2,2
+SUP068,Calhoun PLC,North America,Machinery,540,88.35,7.27,7,284.96,77.54,44.53,97.26,360385.91,High,45.71,69.92,1
+SUP069,"Nolan, Fischer and Williams",Middle East,Textiles,893,83.82,4.96,29,275.88,94.16,71.65,78.49,262864.04,High,61.92,73.32,1
+SUP070,Hodges-Lawrence,Asia,Electronics,996,97.21,5.08,24,283.8,89.71,70.15,70.79,88699.83,Low,65.14,75.59,3
+SUP071,Garcia Inc,Africa,Raw Materials,660,84.45,0.58,22,197.43,96.56,57.3,90.84,30897.15,Medium,55.91,84.25,2
+SUP072,Hogan LLC,Asia,Chemicals,253,86.93,4.09,22,365.43,93.16,43.05,99.61,235569.68,High,67.76,80.43,1
+SUP073,Cook-Lloyd,Europe,Textiles,432,72.4,1.8,4,315.21,78.99,48.33,89.86,250193.98,Medium,50.48,77.0,2
+SUP074,Davis-Campbell,Asia,Raw Materials,737,93.43,4.57,13,479.34,83.64,34.54,79.28,236499.13,Medium,82.99,79.8,2
+SUP075,Moran LLC,Middle East,Raw Materials,995,75.87,7.32,20,272.77,78.76,15.98,91.95,455238.06,Medium,70.19,68.46,2
+SUP076,Williams-Meyer,Asia,Machinery,299,96.91,2.02,24,291.35,81.1,22.93,75.39,11937.53,High,74.32,82.41,1
+SUP077,Sullivan-Underwood,North America,Chemicals,987,95.64,6.11,6,67.78,83.7,54.25,93.87,414431.46,High,86.89,80.76,1
+SUP078,"Vargas, Zimmerman and James",South America,Packaging,369,80.18,5.01,9,10.93,83.97,60.55,82.4,101988.4,Low,73.05,75.04,3
+SUP079,Maldonado-Williams,Asia,Electronics,287,71.56,2.07,25,115.2,75.0,25.5,83.71,340911.22,Low,78.21,76.79,3
+SUP080,Smith-Foster,North America,Textiles,206,82.21,7.13,24,33.89,94.47,49.98,99.52,287249.93,Medium,42.79,69.41,2
+SUP081,Silva Ltd,Africa,Machinery,393,72.23,7.57,22,174.79,93.15,31.65,78.3,414569.97,Medium,75.09,67.7,2
+SUP082,Carrillo-Vaughan,Middle East,Machinery,809,76.03,2.3,13,210.52,85.59,15.21,79.39,498181.08,High,46.32,74.8,1
+SUP083,Martinez Inc,Middle East,Chemicals,753,81.79,1.85,16,309.22,80.48,64.99,89.3,75529.36,Low,86.55,83.6,3
+SUP084,"Francis, Clark and Brandt",Asia,Packaging,208,95.18,7.08,10,340.64,83.29,15.16,87.1,263113.93,Low,98.76,79.01,3
+SUP085,Gaines LLC,South America,Textiles,983,79.57,4.22,19,385.0,84.78,57.4,90.17,371105.15,Low,87.44,78.91,3
+SUP086,"Reed, Newton and Hernandez",South America,Machinery,470,89.02,5.12,25,53.38,84.01,41.92,95.04,472083.57,High,59.91,75.36,1
+SUP087,Delgado-Martinez,Africa,Packaging,836,88.17,6.24,22,432.61,94.92,66.0,74.55,108046.02,Medium,95.16,77.06,2
+SUP088,Watts-Swanson,North America,Electronics,581,95.67,4.11,25,360.7,84.63,17.54,77.58,355891.35,High,82.59,79.92,1
+SUP089,Lang Ltd,South America,Chemicals,229,91.97,5.98,13,419.11,83.05,41.9,73.08,292056.98,Medium,93.03,77.11,2
+SUP090,"Peterson, Giles and Reed",Asia,Machinery,303,90.19,3.98,18,420.06,75.56,34.01,96.78,192968.32,High,44.75,75.35,1
+SUP091,Reyes-Ayala,Middle East,Electronics,236,81.91,3.33,30,291.53,76.04,3.23,93.92,487365.01,Low,78.12,78.03,3
+SUP092,Eaton Group,North America,Textiles,113,81.33,1.71,12,194.48,87.01,54.48,95.59,452667.68,High,70.01,83.6,1
+SUP093,Horne LLC,Africa,Textiles,554,88.88,6.73,30,99.8,81.83,20.27,98.75,362519.03,Low,60.25,71.88,3
+SUP094,Coleman-Rivera,North America,Raw Materials,793,78.73,5.95,26,178.01,98.7,9.32,92.45,284500.2,High,52.6,71.74,1
+SUP095,Fleming Ltd,South America,Packaging,968,81.18,4.9,3,275.32,85.85,2.61,88.53,442168.36,Low,47.76,73.52,3
+SUP096,Lawson and Sons,Middle East,Raw Materials,124,91.92,2.42,26,25.23,87.1,28.4,70.83,474781.43,High,84.02,81.83,1
+SUP097,Chavez-Wolf,Africa,Chemicals,715,85.21,3.08,3,6.54,92.85,50.63,77.88,258137.0,High,56.95,78.99,1
+SUP098,Hess PLC,Africa,Chemicals,843,89.27,2.19,13,413.27,90.63,28.99,91.06,102858.56,High,60.79,83.01,1
+SUP099,Shields-Freeman,Europe,Raw Materials,993,91.48,2.19,11,409.02,78.91,15.72,74.4,276849.46,High,54.57,78.57,1
+SUP100,"Harris, Fox and Douglas",Middle East,Raw Materials,379,96.16,5.42,29,407.03,85.51,24.18,93.16,366421.73,Low,98.9,81.94,3
