@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Annual_Demand,Unit_Price,Monthly_Demand_StdDev,Lead_Time_Days,Monthly_Demand_Avg,Annual_Consumption_Value,Cumulative_Value,Cumulative_Percentage,ABC_Class,CV,XYZ_Class,ABC_XYZ,Inventory_Strategy
+P105,LED Monitor,Electronics,2800,180,450,18,233.33333333333334,504000,504000,28.660790446403183,A,1.9285714285714286,Z,AZ,Critical item → high safety stock + forecasting focus
+P110,Study Table,Furniture,900,220,410,25,75.0,198000,702000,39.920386693204435,A,5.466666666666667,Z,AZ,Critical item → high safety stock + forecasting focus
+P102,USB Keyboard,Electronics,9500,20,90,5,791.6666666666666,190000,892000,50.72504975831674,A,0.11368421052631579,X,AX,"High value & stable → tight control, lean inventory"
+P101,Wireless Mouse,Electronics,12000,15,120,7,1000.0,180000,1072000,60.96104634631788,A,0.12,X,AX,"High value & stable → tight control, lean inventory"
+P107,Backpack,Accessories,4200,40,310,12,350.0,168000,1240000,70.51464316178561,A,0.8857142857142857,Y,AY,Moderate monitoring with periodic review
+P103,Office Chair,Furniture,1400,120,250,20,116.66666666666667,168000,1408000,80.06823997725334,B,2.142857142857143,Z,BZ,Monitor closely due to unpredictability
+P108,Printer Ink,Electronics,3500,35,520,10,291.6666666666667,122500,1530500,87.03440432186522,B,1.7828571428571427,Z,BZ,Monitor closely due to unpredictability
+P104,Water Bottle,Household,22000,5,60,4,1833.3333333333333,110000,1640500,93.28973557008814,B,0.03272727272727273,X,BX,Stable medium value → automated replenishment
+P109,Coffee Mug,Household,8000,8,70,6,666.6666666666666,64000,1704500,96.92920102359966,C,0.10500000000000001,X,CX,Low priority → bulk ordering
+P106,Notebook Pack,Stationery,18000,3,40,3,1500.0,54000,1758500,100.0,C,0.02666666666666667,X,CX,Low priority → bulk ordering
